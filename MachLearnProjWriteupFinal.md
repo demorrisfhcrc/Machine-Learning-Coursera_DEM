@@ -11,8 +11,6 @@ Created by: Daryl Morris
 
 GitHub repo: https://github.com/demorrisfhcrc/Machine-Learning-Coursera_DEM
 
-RPubs: http://rpubs.com/demorrisfhcrc/29426
-
 ##Background Introduction
 
 From the course website, we find the following project synopsis: 
